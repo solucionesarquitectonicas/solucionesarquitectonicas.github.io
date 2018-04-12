@@ -1563,6 +1563,66 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "",
+                "active": false
+              },
+              {
+                "tags": "INSTALACIONES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/electrica-pa-1-2000x1413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/electrica-pa-1-2000x1413-800x565.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "INSTALACIONES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/hidraulica-pb-1-2000x1413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hidraulica-pb-1-2000x1413-800x565.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "INSTALACIONES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/planata-danitaria-y-hidraulica-segundo-nivel-1-2000x1413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planata-danitaria-y-hidraulica-segundo-nivel-1-2000x1413-800x565.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "INSTALACIONES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pluviales-1-2000x1413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pluviales-1-2000x1413-800x565.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "INSTALACIONES",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sanitario-1-2000x1413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sanitario-1-2000x1413-800x565.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "",
                 "active": true
               }
             ]
