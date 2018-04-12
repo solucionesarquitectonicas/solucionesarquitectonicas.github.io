@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Solucionesarquitectonicas",
-    "currentPage": "galeria.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1599,7 +1599,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "INSTALACIONES",
@@ -1623,7 +1623,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ]
           }
